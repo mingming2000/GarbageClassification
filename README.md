@@ -1,6 +1,7 @@
 # GarbageClassification
-KUCC x YCC AI 부트캠프
+KUCC x YCC AI 부트캠프 23.02.26
 
+1등 1조 - Garbage Classification
 
 ### 재활용 쓰레기 분류 AI 개발
 <img src="https://user-images.githubusercontent.com/102716945/221347763-ce265e29-fc48-41b3-8aa4-888f7e6a8ce2.jpg" width="748" height="529"/>
